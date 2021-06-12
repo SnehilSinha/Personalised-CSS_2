@@ -1,0 +1,155 @@
+
+body{
+    margin: 0;
+    background-color: #dcffdfce;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+
+.top-container{
+    position: relative;
+    color: #510026;;
+    padding-top: 100px;
+    
+}
+
+.middle-container{
+    padding: 50px 0px 60px 0px;
+    background-color: white;
+    color: 510026;
+
+}
+
+.bottom-container{
+    background-color: #65bfbf ;
+    color: white;
+    padding: 20px 10px;
+}
+
+.prop{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h1{
+    color: #66BFBF;
+    font-size: 5rem;
+    margin: 50px auto 0px auto;
+    font-family: 'Montez', cursive;
+    line-height: 2;
+}
+
+h3{
+    color: #11999E;
+    font-size: 1.5em;
+}
+
+h2{
+    color: #11999E;
+    font-size: 2em;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    color: #357a7a;
+    font-weight: normal;
+
+} 
+
+.pro{
+    text-decoration: underline;
+    
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.top-cloud{
+    position: absolute;
+    left: 65%;
+    top: 20%;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #9cb0b3a8;
+    border-width: 7px;
+    width: 7%;
+}
+
+.footer-link {
+    color: #11999E;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+    word-spacing: 2rem;
+    margin: 10px 12px;
+    text-decoration: none;
+  }
+
+.footer-link:hover {
+    color: #EAF6F6;
+  }
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+} 
+
+.profile{
+    width: 50%;
+    margin: 100px auto;
+    text-align: center;
+    line-height: 2;
+}
+
+.comp{
+    width: 25%;
+    float: left;
+    margin-right: 4%;
+    
+}
+
+.chillies{
+    width: 25%;
+    float: right;
+    margin-left: 4%;
+}
+
+.name{
+    color: #EAF6F6;
+    padding: 10px 20px;
+    font-size: 1rem;
+}
+
+.contact{
+    color: black;
+}
+
+.btn{
+    background: #65BFBF;
+    background-color: #65BFBF;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    border-radius: 14px;
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn:hover{
+    background-color: cadetblue;
+}
